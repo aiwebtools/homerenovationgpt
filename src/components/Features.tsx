@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { Search, DollarSign, FileText, Map, ImagePlus, Code, Database, Speech } from 'lucide-react';
+import { Search, DollarSign, FileText, Map, ImagePlus, Code, Database, Speech, ArrowRight } from 'lucide-react';
 
 const Features = () => {
   const features = [
