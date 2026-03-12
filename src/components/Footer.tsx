@@ -162,7 +162,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="flex flex-col md:flex-row justify-between items-center">
           <a 
-            href="https://www.aiwebtools.ai" 
+            href="https://aiwebtools.lovable.app/?via=aiwebtools" 
             target="_blank" 
             rel="noopener noreferrer" 
             className="text-gray-400 hover:text-white transition-colors mb-4 md:mb-0"

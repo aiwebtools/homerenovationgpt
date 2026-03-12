@@ -94,7 +94,7 @@ const Features = () => {
             the premier destination for <strong className="text-cyberpunk-yellow">free AI tools</strong> and artificial intelligence solutions.
           </p>
           <a
-            href="https://www.aiwebtools.ai"
+            href="https://aiwebtools.lovable.app/?via=aiwebtools"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-cyberpunk-purple to-cyberpunk-blue text-white rounded-lg hover:shadow-lg hover:shadow-cyberpunk-blue/20 transition-all duration-300"
